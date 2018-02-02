@@ -1,0 +1,9 @@
+swarm:
+  logging:
+    loggers:
+      de.schinzel:
+        level: INFO
+      org.jboss.resteasy:
+        level: INFO
+      org.infinispan:
+        level: INFO
